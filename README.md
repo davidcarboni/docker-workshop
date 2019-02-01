@@ -1,4 +1,4 @@
- * Docker in Practice
+# Docker in Practice
 
 These scripts help you get Docker installed and up and running for the workshop.
 
