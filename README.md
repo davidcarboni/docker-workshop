@@ -32,8 +32,8 @@ Head into the `languages` folder and try the various scripts:
 
  * [run-node.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-node.sh)
  * [run-python.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-python.sh)
- * [run-java.sh]https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-java.sh
- * [run-golang.sh]https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-golang.sh
+ * [run-java.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-java.sh)
+ * [run-golang.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-golang.sh)
 
 Congratulations, you've just polyglotted your world with a single, standard way to run code written in any language. You could run bash, C code, even Perl if that's your thing.
 
