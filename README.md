@@ -71,8 +71,8 @@ Try this:
  * `docker exec -it compose_nginx_1 sh` - execute the command `sh` inside the nginx container (note the name provided by `docker ps`)
  * `apt update && apt install curl` - modify the running container. Remember the container is ephemeral, so if you restart the container, these changes will be lost.
  * `curl app:5000` - connect to the `app` container by DNS name 
- * Exit the shell in the container and run `docker-compose scale app=2` - you now have two instances. Try `docker ps` to confirm.
- * Start another shell in the nginx container and `apt install dnsutils`. Now `dig app` - you should see an IP address for each running `app` container.
+ * Exit from the shell in the container and run `docker-compose scale app=2` - you now have two instances. Try `docker ps` to confirm.
+ * Start a new shell in the nginx container. This time, `apt install dnsutils` and then `dig app` - you should get an IP address for each running `app` container.
 
 ----
 
