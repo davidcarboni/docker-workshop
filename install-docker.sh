@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+
+# See: https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-engine---community-1
+
 # Update the apt package index:
 sudo apt-get update
 
