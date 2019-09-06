@@ -35,7 +35,7 @@ Head into the `languages` folder and try these scripts:
  * [run-java.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-java.sh)
  * [run-golang.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-golang.sh)
 
-Congratulations, you've just polyglotted your world with a single, standard way to run code written in any language. You could run bash, C code, even Perl if that's your thing.
+Congratulations, you've just polyglotted your world with a single, standard way to run code written in any language. You could run bash, C code, even Perl if that's your thing. It's "just" a Linux process, so anything you can run, you can containerise.
 
 ## Container scheduling with Compose
 
