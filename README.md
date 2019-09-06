@@ -28,7 +28,7 @@ Nginx will be available on port 80 (the running container port 80 is mapped to y
 
 Containers can be a neat way to partition programming language runtimes. If you've used virtual environments in Python or installed more than one JVM, you'll know it's a faff. The dedicated filesystem in a container is a great way to do it reliably.
 
-Head into the `languages` folder and try the various scripts:
+Head into the `languages` folder and try these scripts:
 
  * [run-node.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-node.sh)
  * [run-python.sh](https://github.com/davidcarboni/docker-workshop/blob/master/languages/run-python.sh)
