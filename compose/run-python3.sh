@@ -4,7 +4,7 @@
 # -it      Interactive and tty (so we can interact with the container)
 # --rm     Delete the container on exit (avoids leaving test clutter)
 
-docker run -it --rm python:3-alpine
+docker run -it --rm python:alpine
 
 # Ctrl-C to quit the container
 # NB Alpine is a small, security-friendly distro
