@@ -1,6 +1,6 @@
 # Introduction to Containers in Practice
 
-These scripts help you get Docker installed and up and running for the workshop.
+This repo contains files and scripts help you get Docker installed and up and running, and helps you step through the workshop.
 
 If you don't already have [Git](https://git-scm.com/) installed, take a look at `install-git.sh`.
 
